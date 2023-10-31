@@ -62,6 +62,10 @@ Voici la liste des différents fichiers proposés dans DBASE-TOOLS :
 			<td><b>DBF2XML.PAS</b></td>
 			<td>Cette commande permet de convertir un fichier .DBF (DBase III) en format XML.</td>
 		</tr>
+		<tr>
+			<td><b>SQL2DBF.PAS</b></td>
+			<td>Cette commande permet de convertir un fichier SQL en DBF.</td>
+		</tr>	
 </table>
 
 <h2>Compilation</h2>
